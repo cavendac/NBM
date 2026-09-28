@@ -1,4 +1,4 @@
-% FIGURE 2: 35 preop, 35 postop, all ctrls
+% FIGURE 2: 34 preop, 34 postop, all ctrls
 roi_list = {fpac_global, WB_regions};
 roi_names = {"FPAC","WB"};
 
