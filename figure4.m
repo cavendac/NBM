@@ -62,12 +62,10 @@ end
 
 disp(com_regions_ACC)
 
-%% FIGURE 5A: Community Detection
-
 % "Y:\NBMProject_organized\recreation_hernanspaper\data\communitydetection_outputs\subjSpecific\age_corrected_avg_zscore_ic\com_regions_ACC_Postop38.mat"
 % "Y:\NBMProject_organized\recreation_hernanspaper\data\communitydetection_outputs\subjSpecific\age_corrected_avg_zscore_ic\com_regions_ACC_Preop38.mat"
 
-%% FIGURE 5B: Glass Brain Creation
+%% glass brain creation
 addpath Y:\NBMProject\glassbrain_communities\111925_glassbrainvisual
 % from: create_glass_brain_visual_edited.m
 % If you need to create .node file, go to Y:\NBMProject\code\get_centroids_of_segmentation.m
